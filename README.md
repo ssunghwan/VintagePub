@@ -56,14 +56,6 @@ ArgoCD \
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://camo.githubusercontent.com/dbdaa692167ef45698b2fdf349b51d3678255d76d835c804221fb7f563304d33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44726177696f2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d44726177696f266c6f676f436f6c6f723d7768697465)
 
 
-## 💁‍♂️ 담당 업무
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/1294aa1f-3aca-471c-8bf0-aa8c42fd99d4)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/68b60be0-2b73-4ce6-97fe-5a74400e1e3a)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/76653bd9-de94-4dd8-a977-be669ad8ee7d)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/21ab2938-d795-4108-82bb-710188172cab)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/c1e1c254-d119-4def-bebc-4fa06c2cbec1)
-
-
 ## 📖 상세 내용
 ### Infra Architecture
 ![image](https://github.com/JJungeee/VintagePub/assets/142209884/e6194b9f-7fad-4f30-b585-651101c259de)
